@@ -1,0 +1,8 @@
+export const images={
+    img_fruit:require('./blackberry.png'),
+    img_fruit1:require('./blueberry.png'),
+    img_fruit2:require('./banana.png'),
+    img_fruit3:require('./avocado.png'),
+    img_fruit4:require('./strawberry.png'),
+    img_fruit5:require('./apricot.png'),
+}
